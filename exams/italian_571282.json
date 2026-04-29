@@ -1,0 +1,327 @@
+{
+  "exam": {
+    "subject": "Italian (אִיטַלְקִית)",
+    "exam_id": 571282,
+    "type": "Bagrut (בגרות)",
+    "level": "לבתי ספר עליסודיים / לנבחנים אקסטרניים",
+    "session": "Summer 2025 (קיץ תשפ\"ה)",
+    "duration_hours": 2.5,
+    "total_points": 100,
+    "allowed_materials": "Any dictionary except electronic dictionaries (מילון מכל סוג שהוא פרט למילונים אלקטרוניים)",
+    "instructions": [
+      "This exam booklet also serves as your answer sheet. Write all answers in the designated spaces in the booklet.",
+      "Do not use Tipp-Ex. Write all your answers in pen only.",
+      "Write in clear and legible handwriting.",
+      "After finishing the exam and before handing it to the proctor, review it a second time.",
+      "At the end of the exam, return the booklet to the proctor."
+    ],
+    "note": "The questions in this exam are phrased in plural form, but every student is required to answer them in a personal manner.",
+    "sections": [
+      {
+        "section_number": 1,
+        "title_he": "פרק ראשון",
+        "title_it": "Comprensione del testo – הבנת הנקרא",
+        "points": 35,
+        "instruction_he": "קראו את הקטע וענו על השאלות שבתרגילים 1-2.",
+        "instruction_it": "Leggi il testo e rispondi alle domande 1-2.",
+        "reading_text": {
+          "title": "\"Il Bel Paese\"",
+          "content": "L'Italia è conosciuta in tutto il mondo come \"Il Bel Paese\". Questo soprannome nasce dalla bellezza dei suoi paesaggi, dalla sua storia ricca e dalla sua cultura unica. Il paese è famoso per le città d'arte, come Roma, Firenze e Venezia, dove si possono ammirare monumenti antichi, musei famosi e opere d'arte uniche. Roma, la capitale, è conosciuta anche come \"La Città Eterna\" per la sua storia millenaria: qui si trovano il Colosseo, il Pantheon e la celebre Fontana di Trevi. Firenze, invece, è la culla dell'arte rinascimentale, con il Duomo e la Galleria degli Uffizi, mentre Venezia, costruita sull'acqua, è celebre per i suoi canali e per il famoso Carnevale. Ma l'Italia non è solo arte e storia.\n\nIl paese offre paesaggi naturali straordinari: le Alpi e gli Appennini per gli amanti della montagna, e il Mar Mediterraneo con le sue spiagge meravigliose. Anche la cucina italiana è un simbolo riconosciuto in tutto il mondo: piatti come la pizza, la pasta e il gelato sono conosciuti e amati ovunque, e ogni regione vanta le proprie specialità, come la pizza napoletana in Campania o il risotto alla milanese in Lombardia. Infine, l'Italia è celebre per la moda, il design e uno stile di vita: le persone amano socializzare nei bar, bere un caffè e godersi la \"dolce vita\".\n\nFin dai tempi antichi, scrittori e poeti hanno celebrato la bellezza del nostro paese. Dante Alighieri, considerato il padre della lingua italiana, fu tra i primi a utilizzare l'espressione nella \"Divina Commedia\" per designare l'Italia come culla di arte e cultura. Successivamente, Francesco Petrarca riprese il termine \"Il Bel Paese\" nei suoi scritti, descrivendo l'Italia attraverso i suoi confini naturali – gli Appennini, il mare e le Alpi. Il concetto di \"Bel Paese\" non è solo un'idea letteraria. Nel 1876, il geologo Antonio Stoppani pubblicò un libro intitolato \"Il Bel Paese\", in cui raccontava le bellezze naturali, geologiche e geografiche d'Italia, ottenendo un grande successo di pubblico.\n\nAll'inizio del Novecento, l'azienda casearia Galbani scelse questo nome per un formaggio fresco, utilizzando sulla confezione la cartina dell'Italia e il volto di Stoppani, per celebrare l'italianità e competere con prodotti francesi. L'etichetta del formaggio, molto conosciuta in Italia, contribuì a diffondere ulteriormente l'espressione \"Il Bel Paese\". Secondo un'antica tradizione ebraica italiana, il nome \"I-TAL-YA\" viene tradotto dall'ebraico come \"l'isola della rugiada divina\", un bel paese dotato della benedizione divina."
+        },
+        "exercises": [
+          {
+            "exercise_number": 1,
+            "points": 27,
+            "points_per_question": 3,
+            "instruction_he": "ענו על הסעיפים א-י על פי הכתוב בקטע. יש לענות במשפט שלם.",
+            "instruction_it": "Rispondere alle seguenti domande secondo quanto letto nel brano. Rispondere in modo completo.",
+            "questions": [
+              {
+                "id": "1a",
+                "question": "Perché l'Italia è conosciuta come \"Il Bel Paese\"?",
+                "answer": "L'Italia è conosciuta come \"Il Bel Paese\" per la bellezza dei suoi paesaggi, la sua storia ricca e la sua cultura unica."
+              },
+              {
+                "id": "1b",
+                "question": "Quali sono le città d'arte più famose in Italia e cosa si può ammirare in queste città?",
+                "answer": "Le città d'arte più famose in Italia sono Roma, Firenze e Venezia. In queste città si possono ammirare monumenti antichi, musei famosi e opere d'arte uniche."
+              },
+              {
+                "id": "1c",
+                "question": "Come viene definita Roma e perché le viene dato questo soprannome?",
+                "answer": "Roma viene definita \"La Città Eterna\" perché ha una storia millenaria. Qui si trovano il Colosseo, il Pantheon e la celebre Fontana di Trevi."
+              },
+              {
+                "id": "1d",
+                "question": "In che modo Venezia si distingue dalle altre città italiane?",
+                "answer": "Venezia si distingue dalle altre città italiane perché è costruita sull'acqua ed è celebre per i suoi canali e per il famoso Carnevale."
+              },
+              {
+                "id": "1e",
+                "question": "Quali elementi naturali e geografici dell'Italia la rendono speciale?",
+                "answer": "L'Italia offre le Alpi e gli Appennini per gli amanti della montagna, e il Mar Mediterraneo con le sue spiagge meravigliose."
+              },
+              {
+                "id": "1f",
+                "question": "Cosa rappresenta la cucina italiana nella cultura internazionale?",
+                "answer": "La cucina italiana è un simbolo riconosciuto in tutto il mondo: piatti come la pizza, la pasta e il gelato sono conosciuti e amati ovunque, e ogni regione vanta le proprie specialità."
+              },
+              {
+                "id": "1g",
+                "question": "Qual è il significato attribuito a \"Il Bel Paese\" nella tradizione letteraria e quali autori ne hanno contribuito alla diffusione?",
+                "answer": "Nella tradizione letteraria, \"Il Bel Paese\" designa l'Italia come culla di arte e cultura. Dante Alighieri fu tra i primi a usare questa espressione nella \"Divina Commedia\", e successivamente Francesco Petrarca la riprese nei suoi scritti descrivendo l'Italia attraverso i suoi confini naturali."
+              },
+              {
+                "id": "1h",
+                "question": "In che modo il marchio Galbani ha utilizzato l'espressione \"Il Bel Paese\" per celebrare l'italianità e distinguersi dai prodotti francesi?",
+                "answer": "L'azienda Galbani ha scelto il nome \"Il Bel Paese\" per un formaggio fresco, utilizzando sulla confezione la cartina dell'Italia e il volto di Stoppani, per celebrare l'italianità e competere con prodotti francesi."
+              },
+              {
+                "id": "1i",
+                "question": "Qual è il significato del nome \"I-TAL-YA\" secondo l'antica tradizione ebraica italiana e come si integra con il concetto di \"Bel Paese\"?",
+                "answer": "Secondo l'antica tradizione ebraica italiana, \"I-TAL-YA\" significa \"l'isola della rugiada divina\", cioè un bel paese dotato della benedizione divina. Questo si integra perfettamente con il concetto di un paese straordinario e benedetto."
+              }
+            ]
+          },
+          {
+            "exercise_number": 2,
+            "points": 8,
+            "instruction_he": "ענו על השאלה הבאה באופן חופשי.",
+            "instruction_it": "Rispondi liberamente alla seguente domanda.",
+            "questions": [
+              {
+                "id": "2",
+                "prompt": "\"Due terre, una bellezza: l'Italia e il mio paese (o il paese dove vivi adesso) – Storia, natura e tradizioni a confronto\"",
+                "description": "Racconta come la storia, i paesaggi naturali e le tradizioni popolari rendono il tuo paese (o il paese in cui vivi) unico e affascinante, proprio come l'Italia.",
+                "answer": "Come l'Italia, anche Israele è un paese ricco di storia millenaria e tradizioni profonde. Gerusalemme, come Roma, è una città eterna che porta i segni di civiltà antiche: le sue mura, i mercati e i luoghi sacri attraggono visitatori da tutto il mondo. Dal punto di vista naturale, Israele offre paesaggi diversi: il deserto del Negev, il Mar Mediterraneo e il Mar di Galilea. Le tradizioni popolari, come le feste ebraiche e la cucina locale — l'hummus, il falafel e la shakshuka — sono conosciute e apprezzate a livello internazionale. Come l'Italia ha la sua \"dolce vita\", Israele ha il suo ritmo vivace e la sua cultura dell'ospitalità, che rendono il paese unico e affascinante."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": 2,
+        "title_he": "פרק שני",
+        "title_it": "conoscenza dei verbi – ידיעת הפועל",
+        "points": 26,
+        "exercises": [
+          {
+            "exercise_number": 3,
+            "points": 10,
+            "points_per_question": 2.5,
+            "tense": "imperfetto",
+            "instruction_he": "השלימו את המשפטים d-a בעזרת הפעלים המודגשים. כתבו את הפעלים ב-imperfetto.",
+            "instruction_it": "Completa le frasi con i verbi al tempo imperfetto.",
+            "questions": [
+              {
+                "id": "3a",
+                "sentence": "Da bambino mi (piacere) __________ molto andare al mare.",
+                "verb": "piacere",
+                "answer": "piaceva",
+                "completed_sentence": "Da bambino mi piaceva molto andare al mare."
+              },
+              {
+                "id": "3b",
+                "sentence": "Stefania mentre (guardare) __________ la tv mangiava pizza.",
+                "verb": "guardare",
+                "answer": "guardava",
+                "completed_sentence": "Stefania mentre guardava la tv mangiava pizza."
+              },
+              {
+                "id": "3c",
+                "sentence": "I miei fratelli (correre) __________ con il cane tutte le mattine.",
+                "verb": "correre",
+                "answer": "correvano",
+                "completed_sentence": "I miei fratelli correvano con il cane tutte le mattine."
+              },
+              {
+                "id": "3d",
+                "sentence": "Il mio sogno (essere) __________ di diventare un cantante famoso.",
+                "verb": "essere",
+                "answer": "era",
+                "completed_sentence": "Il mio sogno era di diventare un cantante famoso."
+              }
+            ]
+          },
+          {
+            "exercise_number": 4,
+            "points": 8,
+            "points_per_question": 2,
+            "tense": "futuro semplice",
+            "instruction_he": "השלימו את המשפטים d-a בעזרת הפעלים המודגשים. כתבו את הפעלים בזמן עתיד.",
+            "instruction_it": "Completa le frasi con il verbo al futuro semplice.",
+            "questions": [
+              {
+                "id": "4a",
+                "sentence": "Domani mattina (io- andare) __________ in gita scolastica.",
+                "verb": "andare",
+                "subject": "io",
+                "answer": "andrò",
+                "completed_sentence": "Domani mattina andrò in gita scolastica."
+              },
+              {
+                "id": "4b",
+                "sentence": "Susanna (partire) __________ domani per la Spagna.",
+                "verb": "partire",
+                "subject": "Susanna",
+                "answer": "partirà",
+                "completed_sentence": "Susanna partirà domani per la Spagna."
+              },
+              {
+                "id": "4c",
+                "sentence": "Quando (tu -studiare) __________ per l'esame di matematica?",
+                "verb": "studiare",
+                "subject": "tu",
+                "answer": "studierai",
+                "completed_sentence": "Quando studierai per l'esame di matematica?"
+              },
+              {
+                "id": "4d",
+                "sentence": "Alla riunione (voi – conoscere) __________ molti studenti.",
+                "verb": "conoscere",
+                "subject": "voi",
+                "answer": "conoscerete",
+                "completed_sentence": "Alla riunione conoscerete molti studenti."
+              }
+            ]
+          },
+          {
+            "exercise_number": 5,
+            "points": 8,
+            "points_per_question": 2,
+            "tense": "imperativo",
+            "instruction_he": "השלימו את המשפטים d-a בעזרת הפעלים המודגשים. כתבו את הפעלים בציוויי (imperativo).",
+            "instruction_it": "Completa le frasi con l'imperativo.",
+            "questions": [
+              {
+                "id": "5a",
+                "sentence": "Fernanda (portare) __________ dei fiori in regalo alla nonna.",
+                "verb": "portare",
+                "subject": "Fernanda",
+                "answer": "Porti",
+                "note": "imperativo formale (Lei)",
+                "completed_sentence": "Fernanda porti dei fiori in regalo alla nonna."
+              },
+              {
+                "id": "5b",
+                "sentence": "Ragazze, (venire) __________ con noi a ballare stasera!",
+                "verb": "venire",
+                "subject": "voi (ragazze)",
+                "answer": "venite",
+                "completed_sentence": "Ragazze, venite con noi a ballare stasera!"
+              },
+              {
+                "id": "5c",
+                "sentence": "Francesca, per favore (parlare) __________ più lentamente, altrimenti non capisco!",
+                "verb": "parlare",
+                "subject": "tu (Francesca)",
+                "answer": "parla",
+                "completed_sentence": "Francesca, per favore parla più lentamente, altrimenti non capisco!"
+              },
+              {
+                "id": "5d",
+                "sentence": "Ragazzi, prima di uscire (chiudere) __________ bene le finestre!",
+                "verb": "chiudere",
+                "subject": "voi (ragazzi)",
+                "answer": "chiudete",
+                "completed_sentence": "Ragazzi, prima di uscire chiudete bene le finestre!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": 3,
+        "title_he": "פרק שלישי",
+        "title_it": "vocabolario – אוצר מילים",
+        "points": 24,
+        "exercises": [
+          {
+            "exercise_number": 6,
+            "points": 24,
+            "points_per_blank": 2,
+            "instruction_he": "השלימו את המילים החסרות בקטע בעזרת המילים שלפניכם; לכל השלמה נכונה – 2 נקודות.",
+            "instruction_it": "Completa il testo cloze con le parole elencate:",
+            "word_bank": [
+              "battaglia",
+              "elegante",
+              "maschere",
+              "carne",
+              "arance",
+              "famoso",
+              "tipico",
+              "carri",
+              "costumi",
+              "festività",
+              "Venezia",
+              "dolci"
+            ],
+            "text_title": "\"Il carnevale italiano\"",
+            "cloze_text": "Il Carnevale è una delle __________ più importanti in Italia. Ogni anno, milioni di persone partecipano a questa festa che segna l'inizio del periodo di astensione dalla __________. Il Carnevale è __________ per le sue sfilate, i __________ colorati e le __________. Ogni città ha le sue tradizioni e celebrazioni. Per esempio, a __________ si svolge il famoso Carnevale con le maschere eleganti e misteriose. Le persone si vestono in modo molto __________ e indossano maschere che coprono il viso.\n\nA Viareggio, invece, ci sono __________ allegorici enormi e molto colorati, decorati con figure che rappresentano personaggi famosi o eventi politici. Durante il Carnevale, è tradizione mangiare chiacchiere o frappe, __________ fritti che si servono in tutta Italia. Un altro dolce __________ del Carnevale è la frittella, che si prepara con farina, zucchero e uvetta. Ogni regione ha una propria versione del Carnevale. In alcune città, come Ivrea, c'è la famosa __________ delle __________. Le persone si lanciano arance l'una contro l'altra in una sfida divertente e un po' pericolosa.",
+            "answers": [
+              { "blank": 1, "word": "festività" },
+              { "blank": 2, "word": "carne" },
+              { "blank": 3, "word": "famoso" },
+              { "blank": 4, "word": "costumi" },
+              { "blank": 5, "word": "maschere" },
+              { "blank": 6, "word": "Venezia" },
+              { "blank": 7, "word": "elegante" },
+              { "blank": 8, "word": "carri" },
+              { "blank": 9, "word": "dolci" },
+              { "blank": 10, "word": "tipico" },
+              { "blank": 11, "word": "battaglia" },
+              { "blank": 12, "word": "arance" }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": 4,
+        "title_he": "פרק רביעי",
+        "title_it": "ניסוח שאלות",
+        "points": 15,
+        "exercises": [
+          {
+            "exercise_number": 7,
+            "points": 15,
+            "points_per_question": 3,
+            "instruction_he": "כתבו שאלה מתאימה אחת לכל אחת מן התשובות 1-5.",
+            "instruction_it": "Formula le domande utilizzando il giusto interrogativo per le seguenti risposte.",
+            "questions": [
+              {
+                "id": "7_1",
+                "answer": "\"La Divina Commedia\" è stata scritta da Dante Alighieri.",
+                "underlined_part": "Dante Alighieri",
+                "question": "Da chi è stata scritta \"La Divina Commedia\"?"
+              },
+              {
+                "id": "7_2",
+                "answer": "La città del Vaticano si trova a Roma.",
+                "underlined_part": "a Roma",
+                "question": "Dove si trova la città del Vaticano?"
+              },
+              {
+                "id": "7_3",
+                "answer": "Sono le 10.30.",
+                "underlined_part": "le 10.30",
+                "question": "Che ore sono?"
+              },
+              {
+                "id": "7_4",
+                "answer": "Il calcio è uno sport molto popolare in Italia perché appassiona milioni di tifosi.",
+                "underlined_part": "appassiona milioni di tifosi",
+                "question": "Perché il calcio è uno sport molto popolare in Italia?"
+              },
+              {
+                "id": "7_5",
+                "answer": "Gli studenti nella classe sono 25.",
+                "underlined_part": "25",
+                "question": "Quanti studenti ci sono nella classe?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
