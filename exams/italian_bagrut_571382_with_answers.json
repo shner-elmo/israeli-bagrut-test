@@ -1,0 +1,381 @@
+{
+  "exam": {
+    "subject": "Italian (אִיטַלְקִית)",
+    "exam_id": 571382,
+    "type": "Bagrut (בגרות)",
+    "level": "בגרות",
+    "session": "Summer 2025 (קיץ תשפ\"ה)",
+    "duration_hours": 3,
+    "total_points": 100,
+    "allowed_materials": "Any dictionary except electronic dictionaries (מילון מכל סוג שהוא פרט למילונים אלקטרוניים)",
+    "instructions": [
+      "This exam booklet also serves as your answer sheet. Write all answers in the designated spaces in the booklet.",
+      "Do not use Tipp-Ex. Write all your answers in pen only.",
+      "Write in clear and legible handwriting.",
+      "After finishing the exam and before handing it to the proctor, review it a second time.",
+      "At the end of the exam, return the booklet to the proctor."
+    ],
+    "note": "The questions in this exam are phrased in plural form, but every student is required to answer them in a personal manner.",
+    "sections": [
+      {
+        "section_number": 1,
+        "title_he": "פרק ראשון",
+        "title_it": "Comprensione del testo – הבנת הנקרא",
+        "points": 55,
+        "instruction_he": "קראו את הקטע, וענו על השאלות 1-2 שאחריו.",
+        "instruction_it": "Leggi il testo e rispondi alle domande 1-2.",
+        "reading_text": {
+          "title": "\"La pizza Margherita\"",
+          "content": "La pizza Margherita è nata a Napoli nel 1889. In quell'anno, il re Umberto I di Savoia e la regina Margherita erano in vacanza nella città. La regina voleva assaggiare la pizza, di cui aveva tanto sentito parlare. Non potendo andare in pizzeria, chiamarono a palazzo il pizzaiolo più famoso di Napoli, Raffaele Esposito, per prepararla. Raffaele cucinò tre tipi di pizza. La regina preferì quella con pomodoro, mozzarella e basilico, perché i colori ricordavano la bandiera italiana. Quando la regina chiese il nome della pizza, Raffaele rispose subito: \"Margherita!\", dedicandola a lei. Da quel giorno, la pizza Margherita è diventata famosa in tutto il mondo. Ancora oggi, la pizzeria di Raffaele Esposito esiste a Napoli con il nome di \"Pizzeria Brandi\". La pizza napoletana non è solo un piatto delizioso, ma rappresenta una vera e propria tradizione. Per questo motivo, nel 2017 è stata dichiarata Patrimonio culturale dell'umanità dall'UNESCO. Questo riconoscimento dimostra che la pizza è molto più di un semplice cibo: è un'arte che si tramanda da generazioni ed è un simbolo della cultura italiana nel mondo. La pizza napoletana ha caratteristiche precise: è rotonda, con un bordo alto leggermente bruciacchiato, chiamato \"cornicione\", e una parte centrale coperta da mozzarella, pomodoro e basilico. La pizza deve risultare morbida ed elastica e si deve cuocere in un forno a legna. Secondo la tradizione, la pizza si mangia con le mani e si può piegare a \"libretto\". Oggi la pizza Margherita è uno dei piatti italiani più amati e diffusi nel mondo. Tuttavia, in molti paesi esistono varianti diverse, perfino con mais, maionese e ananas. Oggi ci sono nuove tendenze: la pizza gourmet con ingredienti particolari, la pizza senza glutine per chi è intollerante e persino la pizza con impasti alternativi, come quelli con farina di farro o carbone vegetale. Non importa dove e come venga preparata, la pizza Margherita rimane sempre un simbolo dell'Italia e della sua tradizione culinaria."
+        },
+        "exercises": [
+          {
+            "exercise_number": 1,
+            "points": 20,
+            "points_per_question": 5,
+            "note": "Answer 4 questions out of 6 with complete sentences.",
+            "instruction_he": "ענו על 4 סעיפים מתוך 6 – יש לענות במשפט שלם. לכל תשובה נכונה – 5 נקודות.",
+            "instruction_it": "Rispondere a 4 punti su 6 con risposte complete.",
+            "questions": [
+              {
+                "id": "1a",
+                "question": "Dove è stata inventata la pizza Margherita?",
+                "answer": "La pizza Margherita è stata inventata a Napoli nel 1889."
+              },
+              {
+                "id": "1b",
+                "question": "Come è nata la pizza Margherita?",
+                "answer": "La pizza Margherita è nata quando il pizzaiolo Raffaele Esposito fu chiamato a palazzo per preparare la pizza alla regina Margherita. La regina preferì quella con pomodoro, mozzarella e basilico, i cui colori ricordavano la bandiera italiana, e Raffaele la dedicò a lei chiamandola \"Margherita\"."
+              },
+              {
+                "id": "1c",
+                "question": "Quali caratteristiche deve avere una vera pizza napoletana?",
+                "answer": "Una vera pizza napoletana deve essere rotonda, con un cornicione alto e leggermente bruciacchiato, e una parte centrale coperta da mozzarella, pomodoro e basilico. Deve essere morbida ed elastica e deve cuocere in un forno a legna."
+              },
+              {
+                "id": "1d",
+                "question": "Per quale motivo la pizza deve essere piegabile a «libretto»?",
+                "answer": "Secondo la tradizione, la pizza si mangia con le mani e si può piegare a \"libretto\". Questa caratteristica fa parte della tradizione napoletana di mangiare la pizza in modo pratico e informale."
+              },
+              {
+                "id": "1e",
+                "question": "Perché la pizza napoletana è stata riconosciuta dall'UNESCO?",
+                "answer": "La pizza napoletana è stata dichiarata Patrimonio culturale dell'umanità dall'UNESCO nel 2017 perché rappresenta un'arte tramandata da generazioni ed è un simbolo della cultura italiana nel mondo, molto più di un semplice cibo."
+              },
+              {
+                "id": "1f",
+                "question": "Quali nuove tendenze stanno modificando il mondo della pizza oggi?",
+                "answer": "Oggi esistono nuove tendenze come la pizza gourmet con ingredienti particolari, la pizza senza glutine per chi è intollerante e la pizza con impasti alternativi, come quelli con farina di farro o carbone vegetale."
+              }
+            ]
+          },
+          {
+            "exercise_number": 2,
+            "points": 8,
+            "points_per_question": 2,
+            "type": "multiple_choice",
+            "note": "Answer all 4 multiple choice questions based on the text.",
+            "instruction_he": "ענו על השאלות הרב-בריריות שלפניכם בהתאם לטקסט שקראתם. לכל תשובה נכונה – 2 נקודות.",
+            "instruction_it": "Rispondere alle 4 domande a scelta multipla secondo il testo che hai letto.",
+            "questions": [
+              {
+                "id": "2A",
+                "question": "Perché la pizza Margherita ha questo nome?",
+                "options": [
+                  "a) Perché era la pizza preferita della regina Margherita.",
+                  "b) Perché somiglia a un fiore chiamato margherita.",
+                  "c) Perché il suo inventore si chiamava Margherita.",
+                  "d) Perché veniva servita con un fiore di margherita sopra."
+                ],
+                "answer": "a",
+                "explanation": "Il pizzaiolo Raffaele Esposito dedicò la pizza alla regina Margherita dopo che lei la preferì tra le tre pizze preparate."
+              },
+              {
+                "id": "2B",
+                "question": "Quale tra queste affermazioni è vera sulla pizza napoletana?",
+                "options": [
+                  "a) Deve avere il cornicione alto e leggermente bruciacchiato.",
+                  "b) Deve essere cotta in un forno elettrico.",
+                  "c) Si mangia sempre con coltello e forchetta.",
+                  "d) Non può avere il basilico tra gli ingredienti."
+                ],
+                "answer": "a",
+                "explanation": "Il testo descrive esplicitamente il cornicione alto e leggermente bruciacchiato come una caratteristica della vera pizza napoletana."
+              },
+              {
+                "id": "2C",
+                "question": "Quale di queste pizze sarebbe considerata una variante non tradizionale in Italia?",
+                "options": [
+                  "a) Pizza con farina di farro.",
+                  "b) Pizza senza glutine.",
+                  "c) Pizza con mais, maionese e ananas.",
+                  "d) Pizza con pomodoro, mozzarella e basilico."
+                ],
+                "answer": "c",
+                "explanation": "Il testo cita mais, maionese e ananas come esempio di varianti non tradizionali che esistono in molti paesi ma non fanno parte della tradizione italiana."
+              },
+              {
+                "id": "2D",
+                "question": "Cosa rende speciale la pizza napoletana secondo l'UNESCO?",
+                "options": [
+                  "a) La sua ricetta segreta tramandata nei secoli.",
+                  "b) Il metodo di preparazione artigianale e la sua importanza culturale.",
+                  "c) Il fatto che è il cibo più amato al mondo.",
+                  "d) Il modo in cui viene servita nei ristoranti di Napoli."
+                ],
+                "answer": "b",
+                "explanation": "Secondo il testo, l'UNESCO ha riconosciuto la pizza napoletana come arte tramandata da generazioni e simbolo della cultura italiana — ovvero la sua importanza culturale e il metodo artigianale di preparazione."
+              }
+            ]
+          },
+          {
+            "exercise_number": 3,
+            "points": 10,
+            "points_per_blank": 2,
+            "type": "cloze",
+            "instruction_he": "השלימו את המילים החסרות בקטע בעזרת המילים שלפניכם. לכל מילה נכונה – 2 נקודות.",
+            "instruction_it": "Completa il testo con le parole elencate.",
+            "word_bank": [
+              "qualità",
+              "verde",
+              "chimiche",
+              "olive",
+              "pane",
+              "cucina",
+              "extravergine",
+              "dieta",
+              "salute",
+              "gusto"
+            ],
+            "text_title": "\"L'olio di oliva\"",
+            "cloze_text": "L'olio __________ di oliva è un alimento molto importante. Si ottiene dalle olive, i frutti dell'ulivo. L'olio extravergine di oliva si produce spremendo le __________ a freddo, senza usare sostanze __________. Questo olio ha un sapore naturale e conserva tutte le sue proprietà benefiche. L'olio extravergine di oliva ha un colore __________ o dorato e un profumo speciale. Gli esperti lo assaggiano con una tecnica particolare. Mettono l'olio in un bicchierino, lo scaldano con le mani, lo annusano e poi lo assaporano. L'olio può avere un __________ amaro, piccante o fruttato. Queste caratteristiche indicano che l'olio è di alta __________. L'olio extravergine di oliva fa bene alla __________. Aiuta il cuore, riduce il colesterolo e protegge la pelle. Contiene antiossidanti, sostanze che rallentano l'invecchiamento del corpo. Per questo motivo, è un alimento molto importante nella __________ mediterranea. L'olio extravergine di oliva si usa in __________ per condire insalate, verdure, pasta e carne. Un modo semplice per gustarlo è la bruschetta, una fetta di __________ tostato con olio extravergine di oliva e, a volte, aglio e pomodoro.",
+            "answers": [
+              { "blank": 1, "word": "extravergine" },
+              { "blank": 2, "word": "olive" },
+              { "blank": 3, "word": "chimiche" },
+              { "blank": 4, "word": "verde" },
+              { "blank": 5, "word": "gusto" },
+              { "blank": 6, "word": "qualità" },
+              { "blank": 7, "word": "salute" },
+              { "blank": 8, "word": "dieta" },
+              { "blank": 9, "word": "cucina" },
+              { "blank": 10, "word": "pane" }
+            ],
+            "completed_text": "L'olio extravergine di oliva è un alimento molto importante. Si ottiene dalle olive, i frutti dell'ulivo. L'olio extravergine di oliva si produce spremendo le olive a freddo, senza usare sostanze chimiche. Questo olio ha un sapore naturale e conserva tutte le sue proprietà benefiche. L'olio extravergine di oliva ha un colore verde o dorato e un profumo speciale. Gli esperti lo assaggiano con una tecnica particolare. Mettono l'olio in un bicchierino, lo scaldano con le mani, lo annusano e poi lo assaporano. L'olio può avere un gusto amaro, piccante o fruttato. Queste caratteristiche indicano che l'olio è di alta qualità. L'olio extravergine di oliva fa bene alla salute. Aiuta il cuore, riduce il colesterolo e protegge la pelle. Contiene antiossidanti, sostanze che rallentano l'invecchiamento del corpo. Per questo motivo, è un alimento molto importante nella dieta mediterranea. L'olio extravergine di oliva si usa in cucina per condire insalate, verdure, pasta e carne. Un modo semplice per gustarlo è la bruschetta, una fetta di pane tostato con olio extravergine di oliva e, a volte, aglio e pomodoro."
+          },
+          {
+            "exercise_number": 4,
+            "points": 17,
+            "type": "essay",
+            "min_lines": 10,
+            "instruction_he": "כתיבת חיבור – ענו על השאלה בהקשר לטקסט (17 נקודות).",
+            "instruction_it": "Scrivi una tua riflessione di almeno 10 righe sull'argomento suggerito.",
+            "prompt": "\"I simboli culinari italiani nel mondo: dalla pasta alla mozzarella, cosa rende unica la gastronomia italiana?\" Esplora i simboli gastronomici italiani, come la pasta, il formaggio, il vino, l'olio d'oliva, e altri piatti tipici, riflettendo su come questi prodotti siano apprezzati e riconosciuti a livello globale come rappresentazioni della tradizione culinaria italiana.",
+            "answer": "La gastronomia italiana è considerata una delle più ricche e apprezzate al mondo. Non si tratta solo di cibo, ma di una vera e propria cultura tramandata da generazioni. Ogni piatto racconta una storia, una tradizione regionale e un amore profondo per gli ingredienti genuini.\n\nLa pasta, ad esempio, è uno dei simboli più riconoscibili dell'Italia nel mondo. Esistono centinaia di formati diversi — dalla spaghetti alla penne, dalle tagliatelle ai rigatoni — ognuno abbinato a un sugo specifico. La mozzarella di bufala campana, con la sua consistenza morbida e il suo sapore delicato, è un altro prodotto simbolo dell'artigianato caseario italiano, tutelato dall'Unione Europea come DOP.\n\nIl vino italiano, da quello toscano come il Chianti al Barolo piemontese, è famoso in tutto il mondo per la sua varietà e qualità. Allo stesso modo, l'olio extravergine di oliva è un ingrediente fondamentale della dieta mediterranea, riconosciuta dall'UNESCO come patrimonio immateriale dell'umanità.\n\nCiò che rende unica la gastronomia italiana è la sua varietà regionale: ogni zona ha le sue specialità, i suoi ingredienti e le sue tecniche. Non esiste una sola cucina italiana, ma tante cucine regionali, ognuna con la propria identità. Questo fa sì che la tradizione culinaria italiana sia inesauribile e sempre affascinante, sia per gli italiani che per i visitatori di tutto il mondo."
+          }
+        ]
+      },
+      {
+        "section_number": 2,
+        "title_he": "פרק שני",
+        "title_it": "conoscenza dei verbi – ידיעת הפועל",
+        "points": 20,
+        "exercises": [
+          {
+            "exercise_number": 5,
+            "points": 12,
+            "points_per_question": 2,
+            "tense": "presente",
+            "instruction_he": "השלימו את המשפטים f-a בעזרת הפעלים המודגשים. כתבו את הפעלים בזמן הווה. לכל פועל נכון – 2 נקודות.",
+            "instruction_it": "Completa le frasi con i verbi al presente.",
+            "questions": [
+              {
+                "id": "5a",
+                "sentence": "A che ora (tu - svegliarsi) ………………………… di solito?",
+                "verb": "svegliarsi",
+                "subject": "tu",
+                "answer": "ti svegli",
+                "completed_sentence": "A che ora ti svegli di solito?"
+              },
+              {
+                "id": "5b",
+                "sentence": "Sabrina (indossare) ………………………… dei pantaloni jeans.",
+                "verb": "indossare",
+                "subject": "Sabrina",
+                "answer": "indossa",
+                "completed_sentence": "Sabrina indossa dei pantaloni jeans."
+              },
+              {
+                "id": "5c",
+                "sentence": "Silvia e Sandro (leggere) ………………………… molti libri gialli.",
+                "verb": "leggere",
+                "subject": "Silvia e Sandro",
+                "answer": "leggono",
+                "completed_sentence": "Silvia e Sandro leggono molti libri gialli."
+              },
+              {
+                "id": "5d",
+                "sentence": "Voi (venire) ………………………… alla festa di fine anno?",
+                "verb": "venire",
+                "subject": "voi",
+                "answer": "venite",
+                "completed_sentence": "Voi venite alla festa di fine anno?"
+              },
+              {
+                "id": "5e",
+                "sentence": "noi (preferire) ………………………… andare al mare il fine settimana.",
+                "verb": "preferire",
+                "subject": "noi",
+                "answer": "preferiamo",
+                "completed_sentence": "Noi preferiamo andare al mare il fine settimana."
+              },
+              {
+                "id": "5f",
+                "sentence": "Luca e Andrea (andare) ………………………… a scuola in autobus.",
+                "verb": "andare",
+                "subject": "Luca e Andrea",
+                "answer": "vanno",
+                "completed_sentence": "Luca e Andrea vanno a scuola in autobus."
+              }
+            ]
+          },
+          {
+            "exercise_number": 6,
+            "points": 8,
+            "points_per_question": 2,
+            "tense": "passato prossimo",
+            "instruction_he": "השלימו את המשפטים d-a בעזרת הפעלים המודגשים. כתבו את הפעלים הזמן עבר המתמשך. לכל פועל נכון – 2 נקודות.",
+            "instruction_it": "Completa con i verbi al passato prossimo.",
+            "questions": [
+              {
+                "id": "6a",
+                "sentence": "Jenny e Susan (andare) ………………………… in vacanza in Italia.",
+                "verb": "andare",
+                "subject": "Jenny e Susan",
+                "answer": "sono andate",
+                "completed_sentence": "Jenny e Susan sono andate in vacanza in Italia."
+              },
+              {
+                "id": "6b",
+                "sentence": "Luca (comprare) ………………………… le mele al supermercato.",
+                "verb": "comprare",
+                "subject": "Luca",
+                "answer": "ha comprato",
+                "completed_sentence": "Luca ha comprato le mele al supermercato."
+              },
+              {
+                "id": "6c",
+                "sentence": "Ieri noi (dormire) ………………………… tutto il giorno.",
+                "verb": "dormire",
+                "subject": "noi",
+                "answer": "abbiamo dormito",
+                "completed_sentence": "Ieri noi abbiamo dormito tutto il giorno."
+              },
+              {
+                "id": "6d",
+                "sentence": "Sabato i miei amici (vedere) ………………………… un film molto interessante al cinema.",
+                "verb": "vedere",
+                "subject": "i miei amici",
+                "answer": "hanno visto",
+                "completed_sentence": "Sabato i miei amici hanno visto un film molto interessante al cinema."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_number": 3,
+        "title_he": "פרק שלישי",
+        "title_it": "vocabolario – אוצר מילים",
+        "points": 25,
+        "exercises": [
+          {
+            "exercise_number": 7,
+            "points": 20,
+            "points_per_question": 2,
+            "instruction_he": "השלימו את המשפטים j-a עם מילים מתאימות. לכל תשובה נכונה – 2 נקודות.",
+            "instruction_it": "Completa liberamente con una o più parole secondo la necessità.",
+            "note": "This exercise accepts any contextually appropriate word(s). The answers below are model examples.",
+            "questions": [
+              {
+                "id": "7a",
+                "sentence": "Gli italiani non bevono mai il ………………………… dopo pranzo o dopo cena.",
+                "answer": "cappuccino",
+                "completed_sentence": "Gli italiani non bevono mai il cappuccino dopo pranzo o dopo cena."
+              },
+              {
+                "id": "7b",
+                "sentence": "Il gelato preferito di Marco è il ………………………… .",
+                "answer": "cioccolato",
+                "completed_sentence": "Il gelato preferito di Marco è il cioccolato."
+              },
+              {
+                "id": "7c",
+                "sentence": "Quando fa caldo mi piace andare al ………………………… .",
+                "answer": "mare",
+                "completed_sentence": "Quando fa caldo mi piace andare al mare."
+              },
+              {
+                "id": "7d",
+                "sentence": "I bambini giocano al parco con la ………………………… .",
+                "answer": "palla",
+                "completed_sentence": "I bambini giocano al parco con la palla."
+              },
+              {
+                "id": "7e",
+                "sentence": "Mi piace scrivere con la penna di colore ………………………… .",
+                "answer": "blu",
+                "completed_sentence": "Mi piace scrivere con la penna di colore blu."
+              },
+              {
+                "id": "7f",
+                "sentence": "Durante le vacanze possiamo fare ………………………… .",
+                "answer": "molte escursioni",
+                "completed_sentence": "Durante le vacanze possiamo fare molte escursioni."
+              },
+              {
+                "id": "7g",
+                "sentence": "In biblioteca possiamo leggere un bel libro ………………………… .",
+                "answer": "in silenzio",
+                "completed_sentence": "In biblioteca possiamo leggere un bel libro in silenzio."
+              },
+              {
+                "id": "7h",
+                "sentence": "Nei giardini ci sono tanti fiori ………………………… .",
+                "answer": "colorati",
+                "completed_sentence": "Nei giardini ci sono tanti fiori colorati."
+              },
+              {
+                "id": "7i",
+                "sentence": "Ogni sabato sera andiamo al cinema a vedere un bel ………………………… .",
+                "answer": "film",
+                "completed_sentence": "Ogni sabato sera andiamo al cinema a vedere un bel film."
+              },
+              {
+                "id": "7j",
+                "sentence": "A colazione mi piace mangiare ………………………… .",
+                "answer": "una brioche con il caffè",
+                "completed_sentence": "A colazione mi piace mangiare una brioche con il caffè."
+              }
+            ]
+          },
+          {
+            "exercise_number": 8,
+            "points": 5,
+            "points_per_question": 1,
+            "type": "matching",
+            "instruction_he": "קבעו עבור כל אחת מן המילים 1-5 את המילה הנרדפת לה. ליד כל מספר כתבו את האות המתאימה (e-a). לכל תשובה נכונה – נקודה אחת.",
+            "instruction_it": "Abbina la parola al suo significato e scrivi la lettera vicino al numero.",
+            "pairs": [
+              { "number": 1, "word": "interessante", "options": { "a": "simpatico", "b": "allegro", "c": "affascinante", "d": "carino", "e": "piccolo" }, "answer": "c", "explanation": "interessante ≈ affascinante (fascinating/captivating)" },
+              { "number": 2, "word": "divertente", "options": { "a": "simpatico", "b": "allegro", "c": "affascinante", "d": "carino", "e": "piccolo" }, "answer": "a", "explanation": "divertente ≈ simpatico (fun/amusing/likeable)" },
+              { "number": 3, "word": "felice", "options": { "a": "simpatico", "b": "allegro", "c": "affascinante", "d": "carino", "e": "piccolo" }, "answer": "b", "explanation": "felice ≈ allegro (happy/cheerful)" },
+              { "number": 4, "word": "bello", "options": { "a": "simpatico", "b": "allegro", "c": "affascinante", "d": "carino", "e": "piccolo" }, "answer": "d", "explanation": "bello ≈ carino (beautiful/pretty/cute)" },
+              { "number": 5, "word": "minuscolo", "options": { "a": "simpatico", "b": "allegro", "c": "affascinante", "d": "carino", "e": "piccolo" }, "answer": "e", "explanation": "minuscolo ≈ piccolo (tiny/small)" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
